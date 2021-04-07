@@ -1,0 +1,39 @@
+body {
+  background-color: #000;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  text-shadow: 5px 5px 10px black;
+  padding: 110px 50px;
+}
+
+.btn {
+  border: none;
+  background: transparent;
+  color: aliceblue;
+  font-size: 75px;
+  margin: 100px;
+}
+
+.btn:visited {
+  color: #000;
+}
+
+#colourCode {
+  color: azure;
+  opacity: 75%;
+  font-size: 50px;
+  margin: 0 100px 0 auto;
+}
+
+.footer {
+    position: absolute;
+    bottom: 25px;
+    left: 43%;
+  opacity: 50%;
+}
+
